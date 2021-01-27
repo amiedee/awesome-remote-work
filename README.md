@@ -86,6 +86,7 @@ The Best Way to Totally Stress Out Your Team by Basecamp](https://basecamp.com/g
 
 - [Geekbot, Asynchronous stand-up meetings in Slack](https://geekbot.com/)
 - [Donut, Connect serendipitously for virtual coffee, peer learning, DEI discussions, and more.](https://www.donut.com/)
+- [Range, Asynchronous standups, meetings, and goals for remote team work, connection, and culture.] (https://range.co/)
 
 
 ## Programming
